@@ -1,0 +1,6 @@
+*.yaml linguist-detectable=false
+*.jpeg binary
+
+examples/site/**/*.html linguist-vendored
+src/*.ts linguist-detectable
+examples/site/* linguist-vendored
