@@ -1,0 +1,7 @@
+node_modules/
+*.tgz
+dist/
+*.log
+.cache/
+.env.local
+npm-debug.log*
